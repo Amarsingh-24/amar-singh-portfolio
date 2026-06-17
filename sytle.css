@@ -78,13 +78,10 @@ a { color: inherit; text-decoration: none; }
 
 .learning-card,img:hover{
     transform: translateY(-5px);
-    box-shadow: 0 10px 20px rgba(102,102,255,0.15);
+    box-shadow: 0 10px 20px rgba(102,102,255,0.15);  background-color: white;
 }
 
-img:hover {
-  background-color: white;
-  
-}
+
 .navbar {
   position: fixed;
   top: 0; left: 0; right: 0;
